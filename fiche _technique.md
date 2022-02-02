@@ -1,5 +1,3 @@
-# (Mettre des titres)
-
 
  ## Titre de l'oeuvre ou de la réalisation
 
