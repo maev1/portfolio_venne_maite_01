@@ -37,9 +37,9 @@ Pour être soutenus dans les airs, les corps étaient accrochés à une herse pa
 - panneaux de configuration
 
 ## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
--La herse
--Câbles de soutien
--Crochets
+- La herse
+- Câbles de soutien
+- Crochets
 
 ## Expérience vécue :
 J'ai beaucoup aimé mon expérience à l'Arsenal art contemporain Montréal. Ce musée est diversifié ce qui m'a permis de rester captivée tout au long de ma visite. J'ai trouvé que les oeuvres étaient très belle et j'ai beaucoup aimé cette sortie.
@@ -58,5 +58,5 @@ Un aspect que j'ai trouvé important pour que les oeuvres soient attirantes et c
 ## Photos
 
 ## Références
-https://billvorn.concordia.ca/menuallF.html
-https://www.elektramontreal.ca/bian2021-billvorn
+- https://billvorn.concordia.ca/menuallF.html
+- https://www.elektramontreal.ca/bian2021-billvorn
