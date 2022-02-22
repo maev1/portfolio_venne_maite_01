@@ -21,7 +21,12 @@ Bill Vorn est un artiste de l'automation oeuvrant sur la scène internationale d
 
 I.C.U. (Intensive Care Unit) est une installation robotique mettant en scène des machines alitées, maladives et souffrantes, réagissant à la présence des spectateurs dans une allégorie médicale disjonctée ou les créatures mécanique et leur système de support vital s'animent avec peine et douleur, s'étirent , se recroquevillent, se disloquent et reprennetforme. Cette pièce a été conçueautour des thèmes plus généreux d'une "ontoogie de la machine" et d'une "esthétique des comportements" dans une perspective de construction de l'artificiel basée sur l'aspect visuel des machines et la programmation de leurs réactions.
 
+(Ce texte est tiré du cartel d'exposition du Arsenal art contemporain)
+
+
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
+explique ca relié a ca....
+
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 ## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
 ## Expérience vécue :
