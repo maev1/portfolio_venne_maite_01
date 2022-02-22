@@ -26,16 +26,20 @@ I.C.U. (Intensive Care Unit) est une installation robotique mettant en scène de
 ![arsenal](https://user-images.githubusercontent.com/94126495/155164734-f6bd39dc-087b-4ce0-98c5-3fc92523bc10.jpg)
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
-(explique ca relié a ca....
-Les corps présentés dans l'oeuvre étaient mobiles du aux tuyaux d'aire qui etaient relié a la machine. Pour cela, chaque corps était relier à des câbles qui étaient branchés aux machines. Les câbles étaient camoufflés sous des cache-fils qui longeaient le mure et se rendaient à un ordinateur dans le coin de la pièce. Cet ordinateur qui était dissimulé derrière des rideaux, contrôlait l'oeuvre grâce à un logiciel.)
+L'oeuvre fonctionnait grâce à un logiciel sur un ordinateur qui se trouvait dans un des coins de la pièce derrière des rideaux. Les câbles qui logeaient la pièce étaient camouflés sous des cache-fils et du papier collant. Ceux-ci reliaient l'ordinateur aux machines. Pour permettre les mouvements des corps, des tubes d'air reliaient la machine aux corps créant de la pression dans les membres pour qu'ils s'étirent et reprennent leur forme initiale.
 
-L'oeuvre fonctionnait grâce à un logiciel sur un ordinateur qui se trouveait dans un des coin de la pièce derrière des rideaux. Des câbles qui logeaient la pièces étaient camouflés sous des cache-fils et du papier collant. ceux-ci reliaient l'ordinateur aux machines pour permettre les mouvements des corps, des tubes d'air étaient reliés de la machine aux corps crant de la pression dans les membres pour qu'ils s'étirent et reprennent leur forme initiale.
-
-Pour être soutenu dans les airs, les corps étaient accrochés à une herse par des câbles d'acier. La structure en métal soutenait également des projecteurs de lumière et des cadres métaliques qui illuminaient la l'oeuvre grâce à des lumières LED (Light-Emitting Diode). 
+Pour être soutenus dans les airs, les corps étaient accrochés à une herse par des câbles d'acier. La structure en métal soutenait également des projecteurs de lumière et des cadres métaliques qui illuminaient l'oeuvre grâce à des lumières LED (Light-Emitting Diode). 
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+- anneaux lumineux
+- projecteur lumineux
+- ordinateur
+- panneaux de configuration
 
 ## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
+-La herse
+-Câbles de soutien
+-Crochets
 
 ## Expérience vécue :
 J'ai beaucoup aimé mon expérience à l'Arsenal art contemporain Montréal. Ce musée est diversifié ce qui m'a permis de rester captivée tout au long de ma visite. J'ai trouvé que les oeuvres étaient très belle et j'ai beaucoup aimé cette sortie.
@@ -44,10 +48,14 @@ J'ai beaucoup aimé mon expérience à l'Arsenal art contemporain Montréal. Ce 
 Lorsque nous entrons dans la pièce où se trouve les corps, nous pouvons nous déplacer entre ceux-ci pour mieux observer les machines et les détails qui s'y retrouvent ce qui est très intéressant.
 
 ## ❤️ Ce qui vous a plu, vous a donné des idées et justifications
-j'ai beaucoup aimé les oeuvres immersives et cela m'a beaucoup plu. Je pense également que ce type d'oeuvre était le plus populaire puisqu'il permettait aux spectateurs d'intéragire avec l'oeuvre.
+j'ai beaucoup aimé les oeuvres immersives et cela m'a beaucoup plu. Je pense également que ce type d'oeuvre était le plus populaire puisqu'il permettait aux spectateurs d'intéragir avec l'oeuvre.
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
-U aspect que j'ai trouvé important pour que les oeuvres soient attirantes et captivante était le son. La musique et les bruits sont des éléments très importants pour garder l'attention de ses spectateurs. Lors de ma visite, j'ai remarqué que les oeuvres qui n'avaient pas de son ou bien lorsque le son n'était pas assez fort pour le bruit provenant des autres oeuvres étaient moins populaire que celles ayant du son assez fort.
+Un aspect que j'ai trouvé important pour que les oeuvres soient attirantes et captivantes était le son. La musique et les bruits sont des éléments très importants pour garder l'attention de ses spectateurs. Lors de ma visite, j'ai remarqué que les oeuvres qui n'avaient pas de son ou bien lorsque le son n'était pas assez fort pour le bruit provenant des autres oeuvres étaient moins populaire que celles ayant du son assez fort.
+
+## Croquis
+
+## Photos
 
 ## Références
 https://billvorn.concordia.ca/menuallF.html
