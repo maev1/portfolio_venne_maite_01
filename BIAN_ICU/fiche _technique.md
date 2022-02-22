@@ -26,10 +26,10 @@ I.C.U. (Intensive Care Unit) est une installation robotique mettant en scène de
 ![arsenal](https://user-images.githubusercontent.com/94126495/155164734-f6bd39dc-087b-4ce0-98c5-3fc92523bc10.jpg)
 
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
-explique ca relié a ca....
-Les corps présentés dans l'oeuvre étaient mobiles du aux tuyaux d'aire qui etaient relié a la machine. Pour cela, chaque corps était relier à des câbles qui étaient branchés aux machines. Les câbles étaient camoufflés sous des caches fils qui longeaient le mure et se rendaient à un ordinateur dans le coin de la pièce. Cet ordinateur qui était dissimulé derrière des rideaux, contrôlait l'oeuvre grâce à un logiciel.
+(explique ca relié a ca....
+Les corps présentés dans l'oeuvre étaient mobiles du aux tuyaux d'aire qui etaient relié a la machine. Pour cela, chaque corps était relier à des câbles qui étaient branchés aux machines. Les câbles étaient camoufflés sous des cache-fils qui longeaient le mure et se rendaient à un ordinateur dans le coin de la pièce. Cet ordinateur qui était dissimulé derrière des rideaux, contrôlait l'oeuvre grâce à un logiciel.)
 
-L'oeuvre fonctionnait grâce à un logiciel sur un ordinateur qui se trouveait dans un des coin de la pièce derrière des rideaux. Des câbles qui logeaient la pièces étaient camouflés sous des caches fils et du papier collant. ceux-ci reliaient l'ordinateur aux machines pour permettre les mouvements des corps, des tubes d'air étaient reliés de la machine aux corps crant de la pression dans les membres pour qu'ils s'étirent et reprennent leur forme initiale.
+L'oeuvre fonctionnait grâce à un logiciel sur un ordinateur qui se trouveait dans un des coin de la pièce derrière des rideaux. Des câbles qui logeaient la pièces étaient camouflés sous des cache-fils et du papier collant. ceux-ci reliaient l'ordinateur aux machines pour permettre les mouvements des corps, des tubes d'air étaient reliés de la machine aux corps crant de la pression dans les membres pour qu'ils s'étirent et reprennent leur forme initiale.
 
 Pour être soutenu dans les airs, les corps étaient accrochés à une herse par des câbles d'acier. La structure en métal soutenait également des projecteurs de lumière et des cadres métaliques qui illuminaient la l'oeuvre grâce à des lumières LED (Light-Emitting Diode). 
 
@@ -40,3 +40,5 @@ Pour être soutenu dans les airs, les corps étaient accrochés à une herse par
 ## ❤️ Ce qui vous a plu, vous a donné des idées et justifications
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 ## Références
+https://billvorn.concordia.ca/menuallF.html
+https://www.elektramontreal.ca/bian2021-billvorn
