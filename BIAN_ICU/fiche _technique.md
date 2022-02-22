@@ -34,11 +34,21 @@ L'oeuvre fonctionnait grâce à un logiciel sur un ordinateur qui se trouveait d
 Pour être soutenu dans les airs, les corps étaient accrochés à une herse par des câbles d'acier. La structure en métal soutenait également des projecteurs de lumière et des cadres métaliques qui illuminaient la l'oeuvre grâce à des lumières LED (Light-Emitting Diode). 
 
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+
 ## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
+
 ## Expérience vécue :
+J'ai beaucoup aimé mon expérience à l'Arsenal art contemporain Montréal. Ce musée est diversifié ce qui m'a permis de rester captivée tout au long de ma visite. J'ai trouvé que les oeuvres étaient très belle et j'ai beaucoup aimé cette sortie.
+
 ## Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+Lorsque nous entrons dans la pièce où se trouve les corps, nous pouvons nous déplacer entre ceux-ci pour mieux observer les machines et les détails qui s'y retrouvent ce qui est très intéressant.
+
 ## ❤️ Ce qui vous a plu, vous a donné des idées et justifications
+j'ai beaucoup aimé les oeuvres immersives et cela m'a beaucoup plu. Je pense également que ce type d'oeuvre était le plus populaire puisqu'il permettait aux spectateurs d'intéragire avec l'oeuvre.
+
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+U aspect que j'ai trouvé important pour que les oeuvres soient attirantes et captivante était le son. La musique et les bruits sont des éléments très importants pour garder l'attention de ses spectateurs. Lors de ma visite, j'ai remarqué que les oeuvres qui n'avaient pas de son ou bien lorsque le son n'était pas assez fort pour le bruit provenant des autres oeuvres étaient moins populaire que celles ayant du son assez fort.
+
 ## Références
 https://billvorn.concordia.ca/menuallF.html
 https://www.elektramontreal.ca/bian2021-billvorn
