@@ -33,13 +33,13 @@ Pour être soutenus dans les airs, les corps étaient accrochés à une herse pa
 ## Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 - anneaux lumineux
 - projecteur lumineux
-- ordinateur
 - panneaux de configuration
 
 ## Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
 - La herse
 - Câbles de soutien
 - Crochets
+- cache-fils
 
 ## Expérience vécue :
 J'ai beaucoup aimé mon expérience à l'Arsenal art contemporain Montréal. Ce musée est diversifié ce qui m'a permis de rester captivée tout au long de ma visite. J'ai trouvé que les oeuvres étaient très belle et j'ai beaucoup aimé cette sortie.
@@ -52,10 +52,6 @@ j'ai beaucoup aimé les oeuvres immersives et cela m'a beaucoup plu. Je pense é
 
 ## 🤔 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 Un aspect que j'ai trouvé important pour que les oeuvres soient attirantes et captivantes était le son. La musique et les bruits sont des éléments très importants pour garder l'attention de ses spectateurs. Lors de ma visite, j'ai remarqué que les oeuvres qui n'avaient pas de son ou bien lorsque le son n'était pas assez fort pour le bruit provenant des autres oeuvres étaient moins populaire que celles ayant du son assez fort.
-
-## Croquis
-
-## Photos
 
 ## Références
 - https://billvorn.concordia.ca/menuallF.html
