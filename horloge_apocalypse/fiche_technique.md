@@ -1,22 +1,22 @@
-##Titre de l’oeuvre
+## Titre de l’oeuvre
 l’horloge de l’apocalypse
 
-##Nom des artistes
+## Nom des artistes
 Maxime Sabourin, Louis-Philippe Gravel, Alexis Lacasse, Tristan Girard-Montpetit et Maxime De Falco
 
-##Année de réalisation
+## Année de réalisation
 2022
 
-##Nom de l’exposition
+## Nom de l’exposition
 MOEBIUS
 
-##Lieu de mise en exposition
+## Lieu de mise en exposition
 Petit studio TIM au Collège Montmorency
 
-##Date de visite
+## Date de visite
 23 mars 2022
 
-##Description de l’oeuvre
+## Description de l’oeuvre
 L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Selon le concept de l’horloge, il est présentement 11 h 58 et il reste 2 minutes avant la fin de l’humanité. À travers ce projet, l’interacteur est invité à contrôler l’horloge grâce aux aiguilles et ainsi manipuler la ligne du temps. Au cours de l’expérience, vous pourrez vivre les différentes époques auxquelles la terre a été exposée. Vous serez exposé aux différents enjeux actuels à travers la projection qui vous entourera et par le fait même vous plongera dans une immersion totale. 
 (ce texte provient du résumé fait par l’équipe qui a réalisé l'œuvre sur la page de L’horloge de l’Apocalypse sur le site web de TIM.)
 ##Explications sur la mise en place de l’oeuvre ou du dispositif
