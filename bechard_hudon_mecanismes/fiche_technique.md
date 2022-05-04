@@ -65,6 +65,8 @@ Lors de ma visite à la Salle Alfred-Pellan, j'ai été particulièrement attir�
 
 - ❤️ Ce qui m'a plu
 
-Après avoir regardé l'oeuvre pendant un long moment, j'ai réalisé que les lignes qu'il y avait sur les plaques d'acrylique faisaient une illusion de mouvement lorsqu'elles se superposaient. J'ai beaucoup aimé cela et j'ai trouvé que c'était très réfléchi et donnait un très bel effet.
+Après avoir regardé l'oeuvre pendant un long moment, j'ai réalisé que les lignes qu'il y avait sur les plaques d'acrylique faisaient une illusion de mouvement lorsqu'elles se superposaient. J'ai beaucoup aimé cela et j'ai trouvé que c'était très réfléchi et donnait un très bel effet. J'ai aussi beaucoup aimé que l'oeuvre s'active lorsqu'il y avait du mouvement puisqu'à première vu elle semblait ordinaire puis lorsque l'on s'approchait elle prenait vie.
 
 - 🤔 Aspect que je ne souhaite pas retenir pour mes propres créations ou que je ferais autrement
+Pour cette oeuvre, les artistes ont choisi de garder les câbles visible, ce qui était plus simple à faire et montrait la mécanique de l'oeuvre. Pourtant, j'ai trouvé que les fils étaient encombrants, c'est pourquoi j'ai moins aimé que les fils soient visible.
+encombrant
