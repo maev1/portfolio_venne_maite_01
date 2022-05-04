@@ -1,15 +1,24 @@
 # Titre de l'oeuvre 
 
+Horizon
+
 # Nom de l'artiste
+
+Alex Le Guillou
 
 # Année de réalisation
 
 # Nom de l'exposition
 
+RECHARGER/Unwind
+
 # Lieu de mise en exposition
+
+OASIS immersion
 
 # Date de ma visite
 
+16 février 2022
 
 # Description de l'oeuvre
 
