@@ -38,6 +38,8 @@ Horizon est une expérience audiovisuelle immersive explorant la perception de l
 
 # Croquis de l'oeuvre
 
+(image du croquis********************************)
+
 # Liste des composantes et techniques de l'oeuvre
 
 # Liste des éléments nécessaires pour la mise en exposition
