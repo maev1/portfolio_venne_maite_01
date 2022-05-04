@@ -59,9 +59,11 @@ Dans le carde de notre cours de documentation d'une collection multimédia, nous
 
 ## - ❤️ Ce qui m'a plu
 
-J'ai beaucoup aimé l'animation des différentes époque et le son était très bien fait. En effet, nous pouvions changer l'aiguille à n'importe quel moment et à chaque fois la transition était parfaite et n'avait heureusement pas d'effet négatif sur l'ambiance de l'expériance.
+J'ai beaucoup aimé l'animation des différentes époque et le son était très bien fait. En effet, nous pouvions changer l'aiguille à n'importe quel moment et à chaque fois la transition était parfaite et n'avait heureusement pas d'effet négatif sur l'ambiance de l'expérience.
 
 ## - 🤔 Aspect que je ne souhaite pas retenir pour mes propres créations ou que je ferais autrement
+
+Je n'ai pas vraiment compris la nécessité de la caméra qui nous projetait sur le mur à la fin de l'expériance, c'est pourquoi je pense qu'il est parfois mieux de garder les projets que nous faisons simple et ne pas nécessairement chercher à rendre cela compliqué à chaque fois, comme dans ce cas avec la caméra.
 
 # Références 
 
