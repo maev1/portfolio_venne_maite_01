@@ -28,7 +28,7 @@ L’horloge de l’apocalypse représente la ligne du temps de l’humanité. Se
 
 Vu d’ensemble de l’oeuvre lors de l’expérience 
 (mettre photo de l’oeuvre)
-![image horloge apocalypse vue ensemble](medias/GitHub_selection_fichier_image.jpg)
+![image horloge apocalypse vue ensemble](medias/GitHub_horloge_apocalypse_vue_ensemble.jpg)
 
 L'œuvre est présentée dans une salle qui est le petit studio, ce pourquoi l'œuvre n’est pas présentée avec les autres œuvres de l’exposition qui elles se retrouvent dans le grand studio. Lorsque l’on entre dans la pièce, on retrouve dans le milieu un trépied qui soutient un horloge et un piédestal romain sur lequel on retrouve un téléphone à roulette. Le téléphone et l’horloge sont chacun reliés à des fils qui sont camouflés sous un ruban qui rend ceux-ci plus sécuritaires et réduit les risques de s’enfarger. Ils sont reliés jusqu’au bord du mur pour aller se connecter ou ils se doivent. Sur chacun des murs de la pièce, on retrouve des rideaux blancs du type filet qui permettent de rendre la projection plus claire. Des hauts-parleurs sont positionnés à quartre endroits différent dans la pièce, ce qui permet de créer une ambiance lorsque les aiguilles changent d'heure.
 
