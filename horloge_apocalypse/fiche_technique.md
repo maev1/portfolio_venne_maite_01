@@ -74,4 +74,4 @@ Site Web de TIM
 
 Github
 
-[Lien vers le site web de TIM](https://github.com/MALT5/L-horloge-de-l-apocalypse)
+[Lien vers le Github de l'horloge de l'apocalypse](https://github.com/MALT5/L-horloge-de-l-apocalypse)
