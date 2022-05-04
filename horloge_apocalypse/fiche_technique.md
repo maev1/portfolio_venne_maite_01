@@ -69,4 +69,9 @@ Je n'ai pas vraiment compris la nécessité de la caméra qui nous projetait sur
 # Références 
 
 Site Web de TIM
+
 [Lien vers le site web de TIM](https://tim-montmorency.com/2022/projets/L-horloge-de-l-apocalypse/docs/web/index.html)
+
+Github
+
+[Lien vers le site web de TIM](https://github.com/MALT5/L-horloge-de-l-apocalypse)
