@@ -8,6 +8,8 @@ Alex Le Guillou
 
 # Année de réalisation
 
+2021
+
 # Nom de l'exposition
 
 RECHARGER/Unwind
@@ -51,3 +53,12 @@ Horizon est une expérience audiovisuelle immersive explorant la perception de l
 - 🤔 Aspect que je ne souhaite pas retenir pour mes propres créations ou que je ferais autrement
 
 
+# Références
+
+Site de l'artiste
+
+[Lien vers le site d'Alex Le Guillou](https://alexleguillou.com/Horizon)
+
+Site d'OASIS immersion
+
+[Lien vers le site d'OASIS immersion](https://oasis.im/)
