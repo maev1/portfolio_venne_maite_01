@@ -4,7 +4,7 @@ Horizon
 
 # Nom de l'artiste
 
-Alex Le Guillou
+Alex Le Guillou, Jonathan Fitas (musique)
 
 # Année de réalisation
 
