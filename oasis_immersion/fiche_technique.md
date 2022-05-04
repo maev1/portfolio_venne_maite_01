@@ -2,7 +2,7 @@
 
 Horizon
 
-# Nom de l'artiste
+# Nom des l'artistes
 
 Alex Le Guillou, Jonathan Fitas (musique)
 
@@ -26,14 +26,14 @@ OASIS immersion
 
 Horizon est une expérience audiovisuelle immersive explorant la perception de la réalité et la représentation des rêves et des souvenirs. Entre ordre et chaos, les mouvements de particules élémentaires composent différentes visions qui s’enchaînent et se mélangent pour former des paysages abstraits et des phénomènes naturels inspirés du ciel et de la mer.
 
-(Ce texte est tiré du cartel d'exposition de l'oeuvre *Horizon*)
+(Ce texte est tiré de la page Web dédiée aux oeuvre présentés sur site d'OASIS immersion)
 
 ## Cartel de l'oeuvre 
 
 (mettre image***********************************************************)
 
 # Explications sur la mise en espace de l'oeuvre
-
+Lors de mon expérience à OASIS immersion, nous devions nous promener de pièce en pièce pour découvrir les différentes oeuvres présentée
 (mettre image de l'oeuvre**********************************************)
 
 # Croquis de l'oeuvre
