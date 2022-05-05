@@ -33,7 +33,7 @@ Horizon est une expérience audiovisuelle immersive explorant la perception de l
 (mettre image***********************************************************)
 
 # Explications sur la mise en espace de l'oeuvre
-Lors de mon expérience à OASIS immersion, nous devions nous promener de pièce en pièce pour découvrir les différentes oeuvres présentée
+Lors de mon expérience à OASIS immersion, nous devions nous promener de pièce en pièce pour découvrir les différentes oeuvres présentée en boucle. Lors que je suis entrée dans le téléportateur, c'est-à-dire
 (mettre image de l'oeuvre**********************************************)
 
 # Croquis de l'oeuvre
