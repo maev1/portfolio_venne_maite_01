@@ -57,6 +57,7 @@ murs épais pour pas pollution sonore
 (photo de moi*********************************)
 
 - ❤️ Ce qui m'a plu
+
 Il y a beaucoup d'aspects qui m'ont plu lors de mon expérience, dont le type de projection. En effet, il y avait plusieurs types, certaines animations étaient plus réalistes et l'on pouvait apersevoir des objets distincts comme des fleurs ou bien des animaux. Cependant, dans cette oeuvre, ce que l'on voyait ressemblait plus à des points de différentes couleurs qui se déplaçait au rythme de la musique. j'ai aussi beaucoup aimé que la projection suive la musique et le rythme tout a long de l'expérience.
 
 - 🤔 Aspect que je ne souhaite pas retenir pour mes propres créations ou que je ferais autrement
