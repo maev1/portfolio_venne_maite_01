@@ -54,7 +54,7 @@ Lorsque je suis entrée dans la pièce du téléportateur, il y avait des petits
 
 murs épais pour pas pollution sonore
 
-![image de moi à OASIS immersion](medias/photographies/image_moi.psd)
+![image de moi à OASIS immersion](medias/photographies/image_moi.jpg)
 
 - ❤️ Ce qui m'a plu
 
