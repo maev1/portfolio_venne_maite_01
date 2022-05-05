@@ -50,16 +50,18 @@ Lors de mon expérience à OASIS immersion, nous devions nous promener de pièce
 
 ## - Description de mon expérience de l'oeuvre
 
-Lorsque je suis entrée dans la pièce du téléportateur, il y avait des petits bancs au centre de la pièce pour permettre une meilleure expérience aux visiteurs, 
+Lorsque je suis entrée dans la pièce du téléportateur, il y avait des petits bancs au centre de la pièce pour permettre une meilleure expérience aux visiteurs, en étant une expérience immersive, j'ai tout de suite été touché par la musique et les projections qu'il y avait dans la pièce.
+
+murs épais pour pas pollution sonore
 
 (photo de moi*********************************)
 
 - ❤️ Ce qui m'a plu
-J'ai beaucoup d'aspects qui m'ont plu lors de mon expérience.  
+Il y a beaucoup d'aspects qui m'ont plu lors de mon expérience, dont le type de projection. En effet, il y avait plusieurs types, certaines animations étaient plus réalistes et l'on pouvait apersevoir des objets distincts comme des fleurs ou bien des animaux. Cependant, dans cette oeuvre, ce que l'on voyait ressemblait plus à des points de différentes couleurs qui se déplaçait au rythme de la musique. j'ai aussi beaucoup aimé que la projection suive la musique et le rythme tout a long de l'expérience.
 
 - 🤔 Aspect que je ne souhaite pas retenir pour mes propres créations ou que je ferais autrement
--
-controler le nombre de personne parce qu'il n'y avait plus de place pour s'assoire
+
+Suite à ma visite il n'y a pas vraiment d'aspect sur les oeuvres que je pourrais retenir afin de ne pas les reproduire. Cependant, il y avait beaucoup de gens ce qui faisait que l'on avait parfois de la difficulté à aprécier l'oeuvre et il manquait même des places pour s'assoir, comme dans la salle téléportation, donc si j'avais pu faire quelque chose autrement, j'aurais probablement fait les pièce plus grande ou bien mieux controler le nombre de gens qui pouvait entrer pour observer les oeuvres.
 
 # Références
 
