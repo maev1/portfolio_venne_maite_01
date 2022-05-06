@@ -68,7 +68,7 @@ L'oeuvre dont-il est question est composée de trois installations distinctes qu
 
 ## - Description de mon expérience de l'oeuvre
 
-(photo de moi*********************************)
+![photo de moi et mes amies à côté de l'oeuvre](medias/photographies/image_de_moi.jpg)
 
 Lors de ma visite à la Salle Alfred-Pellan, j'ai été particulièrement attiré par l'oeuvre *Mécanismes de dessaisissement (rond, carré, triangle)* puisque cette oeuvre était la seule d'entre les trois présenté à avoir du mouvement, de la couleur et à occuper beaucoup de place. Cette oeuvre était très captivante puisqu'elle s'active lorsqu'il y a des mouvements, c'est pourquoi elle s'emble banale, mais lorsque l'on s'approche elle bouge et nous captive.
 
