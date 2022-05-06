@@ -1,1 +1,2 @@
-cette conférence était interessante puisqu'elle parlait de sujet d'actualité qui touche certains domaines qui m'intéressent
+La conférence tenue par Stéphane Nepton, Leïla Afriat et Lorie-Anne Chamberland avait pour but de présenter le projet *Umitemieu* auxquels ils ont participé à la réalisation. Cette conférence avait pour but de nous faire part de leur projet, tout en nous informant de leurs différentes techniques utilisées et de leurs différentes valeurs. En effet, pour réaliser ce projet, il y a eu plusieurs moyens utilisés comme la photogramétrie et la création d'hologrammes nnumériques qui permettent de voir des objets en 3 dimentions. De plus, 
+était interessante puisqu'elle parlait de sujet d'actualité qui touche certains domaines qui m'intéressent
