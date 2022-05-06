@@ -30,7 +30,7 @@ S'activant via des détecteurs de mouvement, les sculptures murales qui composen
 
 ## Cartel de l'oeuvre 
 
-![photo du cartel de l'oeuvre Mécanismes de dessaisissement](medias/photographies/image_cartel_mecanismes.jpg)
+![photo du cartel de l'oeuvre Mécanismes de dessaisissement](medias/photographies/photo_cartel.jpg)
 
 # Explications sur la mise en espace de l'oeuvre
 
