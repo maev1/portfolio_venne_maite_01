@@ -1,6 +1,6 @@
 # Titre de l'oeuvre 
 
-*Mécanisme de dessaisissement (rond, carré, triangle)*
+*Mécanismes de dessaisissement (rond, carré, triangle)*
 
 # Nom de l'artiste
 
