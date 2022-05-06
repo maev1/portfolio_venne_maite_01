@@ -30,13 +30,13 @@ S'activant via des détecteurs de mouvement, les sculptures murales qui composen
 
 ## Cartel de l'oeuvre 
 
-(mettre image***********************************************************)
+(medias/photographies/image_cartel_mecanismes.jpg)
 
 # Explications sur la mise en espace de l'oeuvre
 
 Vu d'ensemble de l'oeuvre
 
-(mettre image de l'oeuvre**********************************************)
+![phot du cartel de l'oeuvre Mécanismes de dessaisissement](mettre image de l'oeuvre**********************************************)
 
 L'oeuvre dont-il est question est composée de trois installations distinctes qui représentent tous une forme spécifique comme la première qui est un rond, la deuxième qui est un carré et la troisième qui est un triangle. Les trois pièces ont chacune de l'espace entre elles et sont assez grandes pour utiliser l'espace d'un mur complet de la salle d'exposition. Lorsque l'on s'approche d'elles, les détecteurs de mouvements captent notre présence et active le mécanisme de l'oeuvre qui lui permet de bouger. 
 
