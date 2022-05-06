@@ -44,8 +44,10 @@ L'oeuvre dont-il est question est composée de trois installations distinctes qu
 
 photo des composantes du carrée
 ![photo des composantes du carrée](medias/photographies/mecanisme_carree.jpg)
+
 photo des composantes du triangle
 ![photo des composantes du triangle](medias/photographies/mecanisme_triangle.jpg)
+
 photo des composantes du rond
 ![photo des composantes du rond](medias/photographies/mecanisme_rond.jpg)
 
