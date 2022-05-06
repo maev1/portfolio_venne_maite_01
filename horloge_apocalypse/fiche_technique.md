@@ -75,3 +75,17 @@ Site Web de TIM
 Github
 
 [Lien vers le Github de l'horloge de l'apocalypse](https://github.com/MALT5/L-horloge-de-l-apocalypse)
+
+# Ordre de prérérence des projects des finissants en TIM après l'exposition MOEBIUS
+
+1. L'horloge de l'apocalypse (projet 5), puisque le projet est très original et regroupe plusieurs éléments du multimédia comme la conception sonore ou bien l'illustration 2D. De plus, il était très bien organisé et nous faisait vivre plusieurs émotions selon l'heure qu'il était.
+
+2. Chère Sasha (projet 1), puisque le temps est utilisé de manière très originale et présente un sujet très touchant. De plus, je trouve le décor est très immersif et c'est quelque chose que j'ai beaucoup aimé.
+
+3. Chronaufrage (projet 4), puisque le sujet était très intéressant et les interractions étaient amusantes. De plus, les dessins étaient très beaux.
+
+4. Jeu temporel (projet 3), puisqu'il est très original et semble amusant pour les utilisateurs. De plus, il y a beaucoup d'éléments en lien avec le multimédia; surtout au niveau de la programmation.
+
+5. 3 minutes (projet 2), puisque la combinaison des deux moyens multimédias n'est pas très bien expliquée et aurait pu être plus justifiable. Il y a aussi eu des problèmes techniques lors de l'exposition ce qui m'a fait remarquer que l'équipe n'était peut-être pas prête à présenté l'oeuvre
+
+6. Distorsion collective (projet 6), puisque je n'ai pas vraiment compris le but du projet ni sont lien avec le temps. Il n'y avait aussi aucun éléments visuel qui nous attirait à aller essayer l'oeuvre, donc celui-ci n'a pas vraiment attiré mon attention.
