@@ -42,6 +42,10 @@ L'oeuvre dont-il est question est composée de trois installations distinctes qu
 
 # Liste des composantes et techniques de l'oeuvre
 
+![photo des composantes du carrée](medias/photographies/mecanisme_carree.jpg)
+![photo des composantes du rond](medias/photographies/mecanisme_rond.jpg)
+![photo des composantes du triangle](medias/photographies/mecanisme_triangle.jpg)
+
 - planche de bois
 - 3 détecteurs de mouvement
 - 6 plaques d'acrylique
