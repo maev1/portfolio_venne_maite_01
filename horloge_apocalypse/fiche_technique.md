@@ -86,6 +86,6 @@ Github
 
 4. Jeu temporel (projet 3), puisqu'il est très original et semble amusant pour les utilisateurs. De plus, il y a beaucoup d'éléments en lien avec le multimédia; surtout au niveau de la programmation.
 
-5. 3 minutes (projet 2), puisque la combinaison des deux moyens multimédias n'est pas très bien expliquée et aurait pu être plus justifiable. Il y a aussi eu des problèmes techniques lors de l'exposition ce qui m'a fait remarquer que l'équipe n'était peut-être pas prête à présenté l'oeuvre
+5. 3 minutes (projet 2), puisque la combinaison des deux moyens multimédias n'est pas très bien expliquée et aurait pu être plus justifiable. Il y a aussi eu des problèmes techniques lors de l'exposition ce qui m'a fait remarquer que l'équipe n'était peut-être pas prête à présenté l'oeuvre.
 
 6. Distorsion collective (projet 6), puisque je n'ai pas vraiment compris le but du projet ni sont lien avec le temps. Il n'y avait aussi aucun éléments visuel qui nous attirait à aller essayer l'oeuvre, donc celui-ci n'a pas vraiment attiré mon attention.
