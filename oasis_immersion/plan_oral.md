@@ -3,12 +3,13 @@
 # introduction
 
 - Présentation de l'oeuvre
-  - L'oeuvre Horizon était présentée à la place des congrès à Montréal.
+  - L'oeuvre Horizon est une expérience immersive, mettant en avant les sens, plus précisément l'ouie et la vue. Cette oeuvre à pour but d'être énergisante. 
   
 - Expérience vécue
   - Lors que je suis allée à OASIS immersion, il y avait beaucoup de gens ce qui à fait je j'ai parfois du rester longtemps dans chaque pièce pour bien examiner et KJSFHDKJFHUEHD chaque oeuvre. J'y suis allée un soir avec mes amies ce qui a fait que l'était heureuse et qui a rendu l'expérience très agréable.
 
 # Aspects abordés du développement
+
 
 # Développement
 
@@ -16,14 +17,16 @@
 
 # Explication sur la mise en espace de l'oeuvre
 
+- La projection est l'élément principale de l'oeuvre, celle-ci est possible grâce à de nombreux projecteurs lumineux et aux murs de la salle qui sont blancs permettant une projection claire.
+- La musique de son côté est le deuxième élément le plus important puisqu'il permet de créer une ambiance énergisante et stimulante. Elle est possible grâce aux nombreux haut-parleurs qui se retrouvent partout dans la salle.
+
 # Expérience vécue
 
 - Ce que j'ai le plus aimée:
-  - j'ai aimé===e=r=esnkfvkfnknLJNNJNDKSJNFKDNFKDNFKDBFN CKSJNFKD SKJNDFKJFSDNF
+  - j'ai beaucoup aimé mon expérience à OASIS immersion, particuliairement, l'ambiance que nous faisait ressentir l'oeuvre. En effet, lors de l'oeuvre Horizon la musique et le niveau d'éclairage ont permit de créer une ambiance énergisante qui m'a tout de suite stimulé.
 
 - Aspect que je ne souhaiterais pas retenir pour mes propres créations:
   - Il y avait beaucoup de gens lors de ma visite à l'exposition ce qui a fait en sorte qu'il n'y avait pas toujours de la place pour tout le monde. J'ai été déçue de cet aspect c'est pourquoi si j'avais à faire autrement, je metterais plus de chaises ou bien je contrôlerais le nombre de personnes permises dans chaque pièce.
- (REGARDER LES ERREURS)
  
 # Liens avec les autres expositions
 
