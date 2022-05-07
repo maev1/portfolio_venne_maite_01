@@ -55,7 +55,7 @@ Lors de mon expérience à OASIS immersion, nous devions nous promener de pièce
 
 ## - Description de mon expérience de l'oeuvre
 
-Lorsque je suis entrée dans la pièce du téléportateur, il y avait des petits bancs au centre de la pièce pour permettre une meilleure expérience aux visiteurs, en étant une expérience immersive, j'ai tout de suite été touché par la musique et les projections qu'il y avait dans la pièce.
+Lorsque je suis entrée dans la pièce du téléportateur, il y avait des petits bancs au centre de la pièce pour permettre une meilleure expérience aux visiteurs, en étant une expérience immersive, j'ai tout de suite été touché par la musique et les projections qu'il y avait dans la pièce. J'ai rapidement constaté que tout les visiteurs étaient émerveillés par les oeuvres qui se dessinaient autour de nous, c'est pourquoi j'ai trouvé que l'ambiance était très bonne. Lorsque l'oeuvre Horizon c'est mit à jouer, j'ai tout de suite été émerveillé par le style de l'artiste, puisque celui-ci se mélangeait bien à la musique et était très original. De plus, j'ai été grandement étonnée de constater que l'on entendait pas les oeuvres provenant des autres pièces puisque les murs étaient assez insonorisés. 
 
 murs épais pour pas pollution sonore
 
