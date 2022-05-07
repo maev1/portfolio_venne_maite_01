@@ -42,7 +42,14 @@ Lors de mon expérience à OASIS immersion, nous devions nous promener de pièce
 
 # Liste des composantes et techniques de l'oeuvre
 
+- haut-parleurs
+- projecteurs au laser
+- système d'éclairage avec installations architecturales et ambiantes
+- herse
+
 # Liste des éléments nécessaires pour la mise en exposition
+
+- grande salle blanche
 
 # Expérience vécue :
 
