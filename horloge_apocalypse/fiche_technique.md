@@ -34,6 +34,10 @@ L'œuvre est présentée dans une salle qui est le petit studio, ce pourquoi l'�
 
 Lorsque l’on rentre dans la pièce, il y a un message sur le mur du centre ayant les explications et une petite mise en contexte de l'œuvre. Suite aux explications, il faut avancer les aiguilles de l'horloge pour voir le décor et l’ambiance changer. Lorsque l'horloge atteint 12 heure, le téléphone se met à sonner c,est alors qu'un spectateur doit répondre pour qu'une caméra commence à le filmer et projeter l'individu sur le mur central.
 
+# Croquis de l'oeuvre
+
+![image du croquis de l'oeuvre l'horloge de l'apocalypse](medias/croquis/croquis_horloge_apocalypse.jpg)
+
 # Liste des composantes et techniques de l'oeuvre
 
 - Animations
