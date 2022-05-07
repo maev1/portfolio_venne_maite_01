@@ -40,6 +40,10 @@ Vu d'ensemble de l'oeuvre
 
 L'oeuvre dont-il est question est composée de trois installations distinctes qui représentent tous une forme spécifique comme la première qui est un rond, la deuxième qui est un carré et la troisième qui est un triangle. Les trois pièces ont chacune de l'espace entre elles et sont assez grandes pour utiliser l'espace d'un mur complet de la salle d'exposition. Lorsque l'on s'approche d'elles, les détecteurs de mouvements captent notre présence et active le mécanisme de l'oeuvre qui lui permet de bouger. 
 
+# Croquis de l'oeuvre
+
+![image du croquis de l'oeuvre mécanismes de dessaisissement](medias/croquis/croquis_mecanismes.jpg)
+
 # Liste des composantes et techniques de l'oeuvre
 
 
