@@ -6,10 +6,12 @@
   - L'oeuvre Horizon est une expérience immersive, mettant en avant les sens, plus précisément l'ouie et la vue. Cette oeuvre à pour but d'être énergisante. 
   
 - Expérience vécue
-  - Lors que je suis allée à OASIS immersion, il y avait beaucoup de gens ce qui à fait je j'ai parfois du rester longtemps dans chaque pièce pour bien examiner et KJSFHDKJFHUEHD chaque oeuvre. J'y suis allée un soir avec mes amies ce qui a fait que l'était heureuse et qui a rendu l'expérience très agréable.
+  - Lors que je suis allée à OASIS immersion, il y avait beaucoup de gens ce qui à fait je j'ai parfois du rester longtemps dans chaque pièce pour bien examiner et aprécier chaque oeuvre. J'y suis allée un soir avec mes amies ce qui a fait que l'était heureuse et qui a rendu l'expérience très agréable.
 
 # Aspects abordés du développement
 
+- La projection est l'élément principale de l'oeuvre, celle-ci est possible grâce à de nombreux projecteurs lumineux et aux murs de la salle qui sont blancs permettant une projection claire.
+- La musique de son côté est le deuxième élément le plus important puisqu'il permet de créer une ambiance énergisante et stimulante. Elle est possible grâce aux nombreux haut-parleurs qui se retrouvent partout dans la salle.
 
 # Développement
 
@@ -17,8 +19,7 @@
 
 # Explication sur la mise en espace de l'oeuvre
 
-- La projection est l'élément principale de l'oeuvre, celle-ci est possible grâce à de nombreux projecteurs lumineux et aux murs de la salle qui sont blancs permettant une projection claire.
-- La musique de son côté est le deuxième élément le plus important puisqu'il permet de créer une ambiance énergisante et stimulante. Elle est possible grâce aux nombreux haut-parleurs qui se retrouvent partout dans la salle.
+- L'oeuvre est exposé dans une grande salle blanche d'environ une dizaine de mètres où les murs sont insonorisé afin de permettre une bonne expérience aux visiteurs et de ne pas entendre le bruit des autres pièces.  
 
 # Expérience vécue
 
